@@ -30,7 +30,7 @@ h3,
 h4,
 h5,
 h6 {
-    margin: 0 0 35px;
+    margin: 0 0 20px;
     text-transform: uppercase;
     font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
@@ -147,25 +147,28 @@ a {
     // background-size: cover;
     // -o-background-size: cover;
     .intro-body {
-        display: table-cell;
-        vertical-align: middle;
+        .intro-flex-row-left {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            padding-top: 5%;
+            padding-bottom: 2%;
+        }
+        .brand-heading {
+            font-family: Century Gothic, sans-serif;
+            font-size: 40px;
+            padding-left: 5%;
+        }
+        .intro-text {
+            font-size: 18px;
+            padding-left: 5%;
+        }
         .cartoon-me {
-            width: 69%;
-            height: auto;
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
+            padding-right: 5%;
         }
         .cartoon-me img {
             width: 100%;
             height: auto;
-            padding: 30px;
-        }
-        .brand-heading {
-            font-size: 40px;
-        }
-        .intro-text {
-            font-size: 18px;
         }
     }
     @media(min-width:768px) {
@@ -263,12 +266,28 @@ a {
     width: 100%;
     padding: 50px 0;
     color: white;
-    background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
+    background: url(../img/coop_gray.png) no-repeat center center scroll;
     background-color: black;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+.flex-folx {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    .mehdi,
+    .eva,
+    .nate {
+        width: 30%;
+    }
+
+    .mehdi {
+        width: 30%;
+    }
 }
 
 #map {

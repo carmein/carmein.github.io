@@ -526,6 +526,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/coop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.06834e+06,
+		"inputAbbreviatedPath": "\/img\/coop.jpg",
+		"outputAbbreviatedPath": "\/img\/coop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/coop_gray.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.66127e+06,
+		"inputAbbreviatedPath": "\/img\/coop_gray.png",
+		"outputAbbreviatedPath": "\/img\/coop_gray.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/downloads-bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -533,6 +555,17 @@
 		"initialSize": 110981,
 		"inputAbbreviatedPath": "\/img\/downloads-bg.jpg",
 		"outputAbbreviatedPath": "\/img\/downloads-bg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/eva.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 135089,
+		"inputAbbreviatedPath": "\/img\/eva.png",
+		"outputAbbreviatedPath": "\/img\/eva.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -555,6 +588,28 @@
 		"initialSize": 1072,
 		"inputAbbreviatedPath": "\/img\/map-marker.png",
 		"outputAbbreviatedPath": "\/img\/map-marker.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/mehdi.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 843295,
+		"inputAbbreviatedPath": "\/img\/mehdi.png",
+		"outputAbbreviatedPath": "\/img\/mehdi.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/nate.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 129361,
+		"inputAbbreviatedPath": "\/img\/nate.png",
+		"outputAbbreviatedPath": "\/img\/nate.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
