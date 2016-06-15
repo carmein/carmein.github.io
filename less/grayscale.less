@@ -147,12 +147,11 @@ a {
     // background-size: cover;
     // -o-background-size: cover;
     .intro-body {
-        .intro-flex-row-left {
+        .intro-flex-row {
             display: flex;
-            flex: row wrap;
-            justify-content: center;
-            padding-top: 5%;
-            padding-bottom: 2%;
+            flex-flow: row wrap;
+            justify-content: space-between;
+            align-content: flex-start;
         }
         .brand-heading {
             font-family: Century Gothic, sans-serif;
@@ -167,8 +166,14 @@ a {
             padding-right: 5%;
         }
         .cartoon-me img {
+            padding-top: 5%;
             width: 100%;
             height: auto;
+        }
+        @media(max-width:420px){
+            .cartoon-me {
+                width: 300px;
+            }
         }
     }
     @media(min-width:768px) {
@@ -180,6 +185,10 @@ a {
             }
             .intro-text {
                 font-size: 26px;
+            }
+            .cartoon-me {
+                width: auto;
+                height: auto;
             }
         }
     }
