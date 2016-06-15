@@ -78,6 +78,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/blog\/img\/does it exist.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 138749,
+		"inputAbbreviatedPath": "\/blog\/img\/does it exist.jpg",
+		"outputAbbreviatedPath": "\/blog\/img\/does it exist.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/blog\/img\/home-bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -107,6 +118,17 @@
 		"initialSize": 115144,
 		"inputAbbreviatedPath": "\/blog\/img\/post-sample-image.jpg",
 		"outputAbbreviatedPath": "\/blog\/img\/post-sample-image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/blog\/img\/sally.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40629,
+		"inputAbbreviatedPath": "\/blog\/img\/sally.jpg",
+		"outputAbbreviatedPath": "\/blog\/img\/sally.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
