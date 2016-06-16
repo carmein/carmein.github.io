@@ -67,17 +67,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/blog\/img\/art-darker.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.07241e+06,
-		"inputAbbreviatedPath": "\/blog\/img\/art-darker.jpg",
-		"outputAbbreviatedPath": "\/blog\/img\/art-darker.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/blog\/img\/art.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -96,6 +85,17 @@
 		"initialSize": 290070,
 		"inputAbbreviatedPath": "\/blog\/img\/contact-bg.jpg",
 		"outputAbbreviatedPath": "\/blog\/img\/contact-bg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/blog\/img\/darkart.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.07027e+06,
+		"inputAbbreviatedPath": "\/blog\/img\/darkart.jpg",
+		"outputAbbreviatedPath": "\/blog\/img\/darkart.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
