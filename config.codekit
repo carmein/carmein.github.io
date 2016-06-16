@@ -186,6 +186,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/blog\/img\/unicorn-clit.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 492231,
+		"inputAbbreviatedPath": "\/blog\/img\/unicorn-clit.JPG",
+		"outputAbbreviatedPath": "\/blog\/img\/unicorn-clit.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/blog\/img\/unicorn-g.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.05598e+06,
+		"inputAbbreviatedPath": "\/blog\/img\/unicorn-g.JPG",
+		"outputAbbreviatedPath": "\/blog\/img\/unicorn-g.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/blog\/img\/unicorn.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
