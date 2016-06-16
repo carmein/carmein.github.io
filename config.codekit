@@ -89,6 +89,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/blog\/img\/gjiggy.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52112,
+		"inputAbbreviatedPath": "\/blog\/img\/gjiggy.png",
+		"outputAbbreviatedPath": "\/blog\/img\/gjiggy.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/blog\/img\/home-bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
