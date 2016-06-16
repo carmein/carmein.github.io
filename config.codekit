@@ -186,6 +186,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/blog\/img\/unicorn-clit-fade.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 406026,
+		"inputAbbreviatedPath": "\/blog\/img\/unicorn-clit-fade.JPG",
+		"outputAbbreviatedPath": "\/blog\/img\/unicorn-clit-fade.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/blog\/img\/unicorn-clit.JPG": {
 		"fileType": 16384,
 		"ignore": 0,
