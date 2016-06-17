@@ -2,19 +2,21 @@
   MY STUFF
 ******************/
 
-.my-name-title{
-  padding-top: 150px;
+.intro .my-name-title{
+  padding-top: 100px;
 }
 .intro .intro-body .cartoon-me {
   padding-right: 5%;
+  padding-top: 70px;
 }
 .intro .intro-body .cartoon-me img {
   width: 100%;
   height: auto;
+  padding-top: 70;
 }
 @media (min-width: 768px) {
   .my-name-title{
-  padding-top: 160px;
+  padding-top: 170px;
   }
   .cartoon-me {
     padding-top: 20px;
@@ -28,20 +30,6 @@
     padding-top: 10px;
   }
 }
-
-/*@media (max-width: 420px) {
-  .intro .intro-body .cartoon-me {
-    width: 300px;
-  }
-}
-@media (min-width: 768px) {
-  .intro .intro-body .cartoon-me {
-    width: auto;
-    height: auto;
-  }
-}*/
-
-
 
 /*
 CUSTOM FONTS
@@ -170,7 +158,7 @@ a:focus {
   display: table;
   width: 100%;
   height: auto;
-  padding: 100px 0;
+  /*padding: 100px 0;*/
   text-align: center;
   color: white;
   background: url(../img/restaurant.png);
@@ -269,7 +257,7 @@ a:focus {
   }
 }
 .content-section {
-  padding-top: 100px;
+  padding-top: 60px;
 }
 .download-section {
   width: 100%;
@@ -299,7 +287,7 @@ a:focus {
 }
 @media (min-width: 767px) {
   .content-section {
-    padding-top: 250px;
+    padding-top: 200px;
   }
   .download-section {
     padding: 100px 0;
