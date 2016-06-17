@@ -13,6 +13,23 @@
   width: 100%;
   height: auto;
 }
+@media (min-width: 768px) {
+  .my-name-title{
+  padding-top: 160px;
+  }
+  .cartoon-me {
+    padding-top: 20px;
+  }
+}
+@media (min-width: 420px) {
+  .my-name-title{
+  padding-top: 10px;
+  }
+  .cartoon-me {
+    padding-top: 10px;
+  }
+}
+
 /*@media (max-width: 420px) {
   .intro .intro-body .cartoon-me {
     width: 300px;
@@ -177,7 +194,7 @@ a:focus {
 @media (min-width: 768px) {
   .intro {
     height: 100%;
-    padding: 0;
+    /*padding: 0;*/
   }
   .intro .intro-body .brand-heading {
     font-size: 100px;
