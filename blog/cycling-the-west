@@ -71,7 +71,7 @@
 
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header class="intro-header" style="background-image: url('img/andrea-winter-edit.JPG')">
+    <header class="intro-header" style="background-image: url('img/pano.jpg')">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -90,21 +90,15 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                 
-                   <h2 class="section-heading">Minneapolis to Fargo</h2>
-                   <h3>super noobs</h3>
-                    
-
-                    
-                    <p>...section yet to be written </p>
-                    
                 
-                    
-                    
-                    <a href="#">
-                        <img class="img-responsive" src="img/andrea-love.jpg" alt="">
-                    </a>
-                    <span class="caption text-muted">Salinas, Ecuador, 2013</span>
+                    <p>blogging to come...</p>
+                    <p>For now, I've uploaded a photo series</p>
+                 
+                    <h2 class="section-heading">Minneapolis to Fargo</h2>
+                    <h3>super noobs</h3>
+                
+                    <img class="img-responsive" src="img/noobs.jpg" alt="">
+                    <span class="caption text-muted">Day 1 --> noobs</span>
 
                     
           
